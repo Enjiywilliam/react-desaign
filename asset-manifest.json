@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-desaign/static/css/main.93181a44.css",
+    "main.js": "/react-desaign/static/js/main.d4af50b1.js",
+    "static/media/ballalompoa.jpg": "/react-desaign/static/media/ballalompoa.ff82340c32378ffd572e.jpg",
+    "static/media/manrusu.jpg": "/react-desaign/static/media/manrusu.b4021fb2066d3b829897.jpg",
+    "static/media/header-img.jpg": "/react-desaign/static/media/header-img.a8625a6485990bc9b2ba.jpg",
+    "static/media/gallang.jpg": "/react-desaign/static/media/gallang.fd31437ce06982f41540.jpg",
+    "static/media/malino.jpg": "/react-desaign/static/media/malino.e242cd66c13c985025bf.jpg",
+    "static/media/Air-Terjun-Takapala.jpg": "/react-desaign/static/media/Air-Terjun-Takapala.4db2b3fadd53b8b99200.jpg",
+    "static/media/bawakaraeng.jpg": "/react-desaign/static/media/bawakaraeng.d2f9e0bb422ce01f1662.jpg",
+    "index.html": "/react-desaign/index.html",
+    "main.93181a44.css.map": "/react-desaign/static/css/main.93181a44.css.map",
+    "main.d4af50b1.js.map": "/react-desaign/static/js/main.d4af50b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93181a44.css",
+    "static/js/main.d4af50b1.js"
+  ]
+}
